@@ -7,7 +7,18 @@ description: >-
   through vocational and academic training across 100+ training areas, 10
   in-demand industries, and 120+ campuses nationwide.
 type: Index
-image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/apis-json-logo.jpg
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/job-corps.png
 tags:
   - Department of Labor
   - Education
