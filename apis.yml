@@ -7,6 +7,17 @@ description: >-
   through vocational and academic training across 100+ training areas, 10
   in-demand industries, and 120+ campuses nationwide.
 type: Index
+deliveryModel:
+  model: unknown
+  open_source: false
+  commercial: false
+  callable_host: false
+  label: Delivery model not determined — needs a product licence on record
+  confidence: low
+  source:
+  - none
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
